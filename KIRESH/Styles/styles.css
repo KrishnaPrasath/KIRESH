@@ -1,0 +1,34 @@
+.marg {
+  margin: 1rem;
+}
+.enroll {
+  height: 3rem;
+  width: 9rem;
+}
+#hotTopicImg {
+  /* display: inline-block; */
+  height: 100%;
+  width: 100%;
+}
+#enroll {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* description unique ID : desc */
+desc {
+  margin: 0.5rem;
+}
+.container-holder {
+  display: flex;
+  justify-content: space-between;
+}
+.holder {
+  border-radius: 1rem;
+}
+
+.imageDiv {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
